@@ -9,3 +9,7 @@ Belajar kelas Dasar Git dan Github. (Progres 38%)
 Belajar kelas Dasar Git dan Github. (Progres 46%)
 * Belajar cara pull request di Github
 * Belajar cara publish code di Github
+
+**15 September 2024**<br>
+Belajar kelas Dasar Git dan Github. (Progres 100%)
+* Belajar membuat github sebagai portfolio
